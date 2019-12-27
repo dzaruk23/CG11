@@ -1,0 +1,40 @@
+﻿  main.cpp
+C:\Users\Dzaruk\Desktop\CG\11\11\main.cpp(52,18): warning C4305:  инициализация: усечение из "double" в "float"
+C:\Users\Dzaruk\Desktop\CG\11\11\main.cpp(86,48): warning C4305:  аргумент: усечение из "double" в "GLfloat"
+C:\Users\Dzaruk\Desktop\CG\11\11\main.cpp(87,52): warning C4305:  аргумент: усечение из "double" в "GLfloat"
+C:\Users\Dzaruk\Desktop\CG\11\11\main.cpp(98,48): warning C4305:  аргумент: усечение из "double" в "GLfloat"
+C:\Users\Dzaruk\Desktop\CG\11\11\main.cpp(99,51): warning C4305:  аргумент: усечение из "double" в "GLfloat"
+C:\Users\Dzaruk\Desktop\CG\11\11\main.cpp(105,48): warning C4305:  аргумент: усечение из "double" в "GLfloat"
+C:\Users\Dzaruk\Desktop\CG\11\11\main.cpp(106,51): warning C4305:  аргумент: усечение из "double" в "GLfloat"
+C:\Users\Dzaruk\Desktop\CG\11\11\main.cpp(113,30): warning C4305:  аргумент: усечение из "double" в "GLfloat"
+C:\Users\Dzaruk\Desktop\CG\11\11\main.cpp(138,36): warning C4838:  преобразование из "const double" в "const GLfloat" требует сужающего преобразования
+C:\Users\Dzaruk\Desktop\CG\11\11\main.cpp(138,36): warning C4244:  инициализация: преобразование "const double" в "const GLfloat", возможна потеря данных
+C:\Users\Dzaruk\Desktop\CG\11\11\main.cpp(138,51): warning C4838:  преобразование из "const double" в "const GLfloat" требует сужающего преобразования
+C:\Users\Dzaruk\Desktop\CG\11\11\main.cpp(138,51): warning C4244:  инициализация: преобразование "const double" в "const GLfloat", возможна потеря данных
+C:\Users\Dzaruk\Desktop\CG\11\11\main.cpp(139,31): warning C4838:  преобразование из "const double" в "GLfloat" требует сужающего преобразования
+C:\Users\Dzaruk\Desktop\CG\11\11\main.cpp(139,31): warning C4244:  инициализация: преобразование "const double" в "GLfloat", возможна потеря данных
+C:\Users\Dzaruk\Desktop\CG\11\11\main.cpp(139,48): warning C4838:  преобразование из "const double" в "GLfloat" требует сужающего преобразования
+C:\Users\Dzaruk\Desktop\CG\11\11\main.cpp(139,48): warning C4244:  инициализация: преобразование "const double" в "GLfloat", возможна потеря данных
+C:\Users\Dzaruk\Desktop\CG\11\11\main.cpp(140,27): warning C4244:  инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Dzaruk\Desktop\CG\11\11\main.cpp(140,21): warning C4244:  инициализация: преобразование "double" в "const float", возможна потеря данных
+C:\Users\Dzaruk\Desktop\CG\11\11\main.cpp(186,24): warning C4305:  аргумент: усечение из "double" в "GLfloat"
+C:\Users\Dzaruk\Desktop\CG\11\11\main.cpp(222,24): warning C4305:  аргумент: усечение из "double" в "GLfloat"
+C:\Users\Dzaruk\Desktop\CG\11\11\main.cpp(245,24): warning C4305:  аргумент: усечение из "double" в "GLfloat"
+C:\Users\Dzaruk\Desktop\CG\11\11\main.cpp(255,24): warning C4305:  аргумент: усечение из "double" в "GLfloat"
+C:\Users\Dzaruk\Desktop\CG\11\11\main.cpp(265,24): warning C4305:  аргумент: усечение из "double" в "GLfloat"
+C:\Users\Dzaruk\Desktop\CG\11\11\main.cpp(376,24): warning C4305:  аргумент: усечение из "double" в "GLfloat"
+C:\Users\Dzaruk\Desktop\CG\11\11\main.cpp(381,40): warning C4305:  +=: усечение из "double" в "float"
+C:\Users\Dzaruk\Desktop\CG\11\11\main.cpp(382,41): warning C4305:  +=: усечение из "double" в "float"
+C:\Users\Dzaruk\Desktop\CG\11\11\main.cpp(383,40): warning C4305:  +=: усечение из "double" в "float"
+C:\Users\Dzaruk\Desktop\CG\11\11\main.cpp(390,27): warning C4305:  аргумент: усечение из "double" в "GLfloat"
+C:\Users\Dzaruk\Desktop\CG\11\11\main.cpp(396,25): warning C4305:  аргумент: усечение из "double" в "GLfloat"
+C:\Users\Dzaruk\Desktop\CG\11\11\main.cpp(397,25): warning C4305:  аргумент: усечение из "double" в "GLfloat"
+C:\Users\Dzaruk\Desktop\CG\11\11\main.cpp(401,26): warning C4305:  аргумент: усечение из "double" в "GLfloat"
+C:\Users\Dzaruk\Desktop\CG\11\11\main.cpp(406,27): warning C4305:  аргумент: усечение из "double" в "GLfloat"
+C:\Users\Dzaruk\Desktop\CG\11\11\main.cpp(411,28): warning C4305:  аргумент: усечение из "double" в "GLfloat"
+C:\Users\Dzaruk\Desktop\CG\11\11\main.cpp(416,27): warning C4305:  аргумент: усечение из "double" в "GLfloat"
+C:\Users\Dzaruk\Desktop\CG\11\11\main.cpp(430,33): warning C4244:  +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Dzaruk\Desktop\CG\11\11\main.cpp(431,33): warning C4244:  +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Dzaruk\Desktop\CG\11\11\main.cpp(437,33): warning C4244:  -=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Dzaruk\Desktop\CG\11\11\main.cpp(438,33): warning C4244:  -=: преобразование "double" в "float", возможна потеря данных
+  11.vcxproj -> C:\Users\Dzaruk\Desktop\CG\11\Debug\11.exe
